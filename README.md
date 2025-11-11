@@ -1,4 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
-
-This is a sample line of my readme that I added locally
+# dsci-100-individual_project_planning_stage_group13
+This is the project planning individual stage for DSCI 100. 
